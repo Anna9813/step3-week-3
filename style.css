@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(233, 189, 132);
+    margin: 0;
+    padding: 0;
+}
+h1, p {
+    color: rgb(38, 36, 41);
+    text-align: center;
+}
+p {
+    margin-bottom: 20px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-bottom: 20px;
+}
+.a {
+    color: rgb(44, 44, 53);
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
